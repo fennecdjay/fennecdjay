@@ -10,7 +10,7 @@
 - 📫 How to reach me **astor.jeremie@wanadoo.fr**
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fennecdjay)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fennecdjay&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fennecdjay&layout=compact&theme=dark&show_icons=true" alt="fennecdjay" /> </p>
