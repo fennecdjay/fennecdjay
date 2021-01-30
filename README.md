@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fennecdjay" alt="fennecdjay" /> </p>
 
-- 🔭 I’m currently working on [Gwion](https://fennecdjay.github.io/Gwion/)
+- 🔭 I’m currently working on [Gwion](https://Gwion.github.io/Gwion/)
 
-- 🤔 I’m looking for help with [Gwion](https://fennecdjay.github.io/Gwion/)
+- 🤔 I’m looking for help with [Gwion](https://Gwion.github.io/Gwion/)
 
 - 📫 How to reach me **astor.jeremie@wanadoo.fr**
 
