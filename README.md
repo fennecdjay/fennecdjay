@@ -7,7 +7,7 @@
 
 - 🤔 I’m looking for help with [Gwion](https://Gwion.github.io/Gwion/)
 
-- 📫 How to reach me **astor.jeremie@wanadoo.fr**
+- 📫 How to reach me **fennecdjay@gmail.com**
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fennecdjay&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
