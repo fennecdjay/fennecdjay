@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jérémie Astor</h1>
 <h3 align="center">A passionate musician from France, using computer for some tasks.</h3>
 
-
-<iframe src="https://github.com/sponsors/maheshj01/button" title="Sponsor maheshj01" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 - 🔭 I’m currently working on [Gwion](https://Gwion.github.io/Gwion/)
 
 - 🤔 I’m looking for help with [Gwion](https://Gwion.github.io/Gwion/)
 
 - 📫 How to reach me **fennecdjay@gmail.com**
 
-- [:heart:](https://github.com/sponsors/yourGitHubUserName) sponsor me
+- :heart: sponsor me [here](https://github.com/sponsors/fennecdjay)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fennecdjay&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fennecdjay&layout=compact&theme=dark&show_icons=true" alt="fennecdjay" /> </p>
